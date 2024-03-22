@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="23" passed="23" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-24T14:14:03 EST" name="Surefire suite" finished-at="2024-02-24T14:14:05 EST" duration-ms="1959">
+    <groups>
+    </groups>
+    <test started-at="2024-02-24T14:14:03 EST" name="Surefire test" finished-at="2024-02-24T14:14:05 EST" duration-ms="1959">
+      <class name="com.zafin.interview.UniversityAPICollectionTest">
+        <test-method signature="testIfDeleteStatusCode204()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfDeleteStatusCode204" finished-at="2024-02-24T14:14:05 EST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfDeleteStatusCode204 -->
+        <test-method signature="testIfGetResponse401HasExpectedValueFortitle()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfGetResponse401HasExpectedValueFortitle" finished-at="2024-02-24T14:14:05 EST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetResponse401HasExpectedValueFortitle -->
+        <test-method signature="testIfGetStatusCode200()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode200" finished-at="2024-02-24T14:14:05 EST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode200 -->
+        <test-method signature="testIfGetStatusCode200Unencodedparameter()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode200Unencodedparameter" finished-at="2024-02-24T14:14:05 EST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode200Unencodedparameter -->
+        <test-method signature="testIfGetStatusCode401()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode401" finished-at="2024-02-24T14:14:05 EST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode401 -->
+        <test-method signature="testIfGetStatusCode404UrlPathError()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode404UrlPathError" finished-at="2024-02-24T14:14:05 EST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode404UrlPathError -->
+        <test-method signature="testIfPostResponseStatusCode201()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfPostResponseStatusCode201" finished-at="2024-02-24T14:14:05 EST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfPostResponseStatusCode201 -->
+        <test-method signature="testIfResponse200HasKeyUniversityName()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfResponse200HasKeyUniversityName" finished-at="2024-02-24T14:14:05 EST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfResponse200HasKeyUniversityName -->
+        <test-method signature="testIfResponseBodyIsNotEmptyForGet200response()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfResponseBodyIsNotEmptyForGet200response" finished-at="2024-02-24T14:14:05 EST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfResponseBodyIsNotEmptyForGet200response -->
+        <test-method signature="testIfResponseBodyIsNotEmptyForPut422response()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfResponseBodyIsNotEmptyForPut422response" finished-at="2024-02-24T14:14:05 EST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfResponseBodyIsNotEmptyForPut422response -->
+        <test-method signature="testIfResponseHas422InvalidRequests()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfResponseHas422InvalidRequests" finished-at="2024-02-24T14:14:05 EST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfResponseHas422InvalidRequests -->
+        <test-method signature="testIfResponseHasKeyTitleForPUT422response()[pri:0, instance:com.zafin.interview.UniversityAPICollectionTest@7dcf94f8]" started-at="2024-02-24T14:14:05 EST" name="testIfResponseHasKeyTitleForPUT422response" finished-at="2024-02-24T14:14:05 EST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfResponseHasKeyTitleForPUT422response -->
+      </class> <!-- com.zafin.interview.UniversityAPICollectionTest -->
+      <class name="com.zafin.interview.UniversityWithUniversityIDCollectionTest">
+        <test-method signature="testIfGetStatusCode200()[pri:0, instance:com.zafin.interview.UniversityWithUniversityIDCollectionTest@229f66ed]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode200" finished-at="2024-02-24T14:14:05 EST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode200 -->
+        <test-method signature="testIfGetStatusCode401()[pri:0, instance:com.zafin.interview.UniversityWithUniversityIDCollectionTest@229f66ed]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode401" finished-at="2024-02-24T14:14:05 EST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode401 -->
+        <test-method signature="testIfGetStatusCode404ResponseMissingAuth()[pri:0, instance:com.zafin.interview.UniversityWithUniversityIDCollectionTest@229f66ed]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode404ResponseMissingAuth" finished-at="2024-02-24T14:14:05 EST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode404ResponseMissingAuth -->
+        <test-method signature="testIfPostResponseStatusCode201()[pri:0, instance:com.zafin.interview.UniversityWithUniversityIDCollectionTest@229f66ed]" started-at="2024-02-24T14:14:05 EST" name="testIfPostResponseStatusCode201" finished-at="2024-02-24T14:14:05 EST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfPostResponseStatusCode201 -->
+        <test-method signature="testIfResponseBodyIsNotEmptyForGet200response()[pri:0, instance:com.zafin.interview.UniversityWithUniversityIDCollectionTest@229f66ed]" started-at="2024-02-24T14:14:05 EST" name="testIfResponseBodyIsNotEmptyForGet200response" finished-at="2024-02-24T14:14:05 EST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfResponseBodyIsNotEmptyForGet200response -->
+      </class> <!-- com.zafin.interview.UniversityWithUniversityIDCollectionTest -->
+      <class name="com.zafin.interview.UniversitiesAPICollectionTest">
+        <test-method signature="testIfGetStatusCode200()[pri:0, instance:com.zafin.interview.UniversitiesAPICollectionTest@34e9fd99]" started-at="2024-02-24T14:14:03 EST" name="testIfGetStatusCode200" finished-at="2024-02-24T14:14:05 EST" duration-ms="1397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode200 -->
+        <test-method signature="testIfGetStatusCode401()[pri:0, instance:com.zafin.interview.UniversitiesAPICollectionTest@34e9fd99]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode401" finished-at="2024-02-24T14:14:05 EST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode401 -->
+        <test-method signature="testIfGetStatusCode404ResponseMissingAuth()[pri:0, instance:com.zafin.interview.UniversitiesAPICollectionTest@34e9fd99]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode404ResponseMissingAuth" finished-at="2024-02-24T14:14:05 EST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode404ResponseMissingAuth -->
+        <test-method signature="testIfGetStatusCode404UrlPathError()[pri:0, instance:com.zafin.interview.UniversitiesAPICollectionTest@34e9fd99]" started-at="2024-02-24T14:14:05 EST" name="testIfGetStatusCode404UrlPathError" finished-at="2024-02-24T14:14:05 EST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfGetStatusCode404UrlPathError -->
+        <test-method signature="testIfResponse200HasJsonList()[pri:0, instance:com.zafin.interview.UniversitiesAPICollectionTest@34e9fd99]" started-at="2024-02-24T14:14:05 EST" name="testIfResponse200HasJsonList" finished-at="2024-02-24T14:14:05 EST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfResponse200HasJsonList -->
+        <test-method signature="testIfResponseBodyIsNotEmptyForGet200response()[pri:0, instance:com.zafin.interview.UniversitiesAPICollectionTest@34e9fd99]" started-at="2024-02-24T14:14:05 EST" name="testIfResponseBodyIsNotEmptyForGet200response" finished-at="2024-02-24T14:14:05 EST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfResponseBodyIsNotEmptyForGet200response -->
+      </class> <!-- com.zafin.interview.UniversitiesAPICollectionTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

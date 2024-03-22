@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+    <test name="AllTests">
+        <classes>
+            <class name="com.zafin.interview.APITest"/>
+            <!-- Add more test classes if needed -->
+        </classes>
+    </test>
+</suite>
